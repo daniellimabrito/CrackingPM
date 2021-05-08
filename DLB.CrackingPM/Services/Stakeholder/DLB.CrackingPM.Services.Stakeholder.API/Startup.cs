@@ -1,4 +1,6 @@
+using DLB.CrackingPM.Services.Stakeholder.Data;
 using DLB.CrackingPM.Services.Stakeholder.Data.Context;
+using DLB.CrackingPM.Services.Stakeholder.Domain.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -29,7 +31,9 @@ namespace DLB.CrackingPM.Services.Stakeholder.API
         {
 
             services.AddControllers();
-            services.AddDbContext<CrackingPMDataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<CrackingPMDataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));         
+            services.AddScoped<IStakeholderRepository, StakeholderRepository>();
+        
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DLB.CrackingPM.Services.Stakeholder.API", Version = "v1" });

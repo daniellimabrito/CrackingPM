@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj": {}
+    "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj": {
+    "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj",
         "projectName": "DLB.CrackingPM.Services.Stakeholder.API",
-        "projectPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj",
+        "projectPath": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\obj\\",
+        "outputPath": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj": {
-                "projectPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj"
+              "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj": {
+                "projectPath": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj": {
+    "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj",
         "projectName": "DLB.CrackingPM.Services.Stakeholder.Data",
-        "projectPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj",
+        "projectPath": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\obj\\",
+        "outputPath": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,8 +109,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\DLB.CrackingPM.Services.Stakeholder.Domain.csproj": {
-                "projectPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\DLB.CrackingPM.Services.Stakeholder.Domain.csproj"
+              "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\DLB.CrackingPM.Services.Stakeholder.Domain.csproj": {
+                "projectPath": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\DLB.CrackingPM.Services.Stakeholder.Domain.csproj"
               }
             }
           }
@@ -171,14 +171,14 @@
         }
       }
     },
-    "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\DLB.CrackingPM.Services.Stakeholder.Domain.csproj": {
+    "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\DLB.CrackingPM.Services.Stakeholder.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\DLB.CrackingPM.Services.Stakeholder.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\DLB.CrackingPM.Services.Stakeholder.Domain.csproj",
         "projectName": "DLB.CrackingPM.Services.Stakeholder.Domain",
-        "projectPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\DLB.CrackingPM.Services.Stakeholder.Domain.csproj",
+        "projectPath": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\DLB.CrackingPM.Services.Stakeholder.Domain.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Home\\Source\\Repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",

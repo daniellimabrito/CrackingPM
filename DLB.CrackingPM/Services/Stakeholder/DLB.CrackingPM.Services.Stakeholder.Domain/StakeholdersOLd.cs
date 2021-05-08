@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DLB.CrackingPM.Services.Stakeholder.Domain
 {
-    public class Stakeholders
+    public class StakeholdersOLd
     {
         public Guid Id { get; set; }
         public string Code { get; set; }
