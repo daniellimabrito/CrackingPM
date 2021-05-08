@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DLB.CrackingPM",
+    "\\DLB.CrackingPM\\Services",
+    "\\DLB.CrackingPM\\Services\\Stakeholder",
+    "\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API"
   ],
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\DLB.CrackingPM\\DLB.CrackingPM.sln",
+  "PreviewInSolutionExplorer": true
 }
