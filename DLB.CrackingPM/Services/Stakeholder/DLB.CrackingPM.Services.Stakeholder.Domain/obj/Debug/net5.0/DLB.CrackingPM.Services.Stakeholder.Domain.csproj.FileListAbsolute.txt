@@ -1,0 +1,12 @@
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\bin\Debug\net5.0\DLB.CrackingPM.Services.Stakeholder.Domain.deps.json
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\bin\Debug\net5.0\DLB.CrackingPM.Services.Stakeholder.Domain.dll
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\bin\Debug\net5.0\ref\DLB.CrackingPM.Services.Stakeholder.Domain.dll
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\bin\Debug\net5.0\DLB.CrackingPM.Services.Stakeholder.Domain.pdb
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\obj\Debug\net5.0\DLB.CrackingPM.Services.Stakeholder.Domain.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\obj\Debug\net5.0\DLB.CrackingPM.Services.Stakeholder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\obj\Debug\net5.0\DLB.CrackingPM.Services.Stakeholder.Domain.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\obj\Debug\net5.0\DLB.CrackingPM.Services.Stakeholder.Domain.AssemblyInfo.cs
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\obj\Debug\net5.0\DLB.CrackingPM.Services.Stakeholder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\obj\Debug\net5.0\DLB.CrackingPM.Services.Stakeholder.Domain.dll
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\obj\Debug\net5.0\ref\DLB.CrackingPM.Services.Stakeholder.Domain.dll
+C:\Users\Home\source\repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Domain\obj\Debug\net5.0\DLB.CrackingPM.Services.Stakeholder.Domain.pdb

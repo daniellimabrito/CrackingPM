@@ -1,11 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\DLB.CrackingPM",
-    "\\DLB.CrackingPM\\Services",
-    "\\DLB.CrackingPM\\Services\\Stakeholder",
-    "\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API"
+    ""
   ],
-  "SelectedNode": "\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\WeatherForecast.cs",
-  "PreviewInSolutionExplorer": false
+  "PreviewInSolutionExplorer": true
 }
