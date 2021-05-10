@@ -1,0 +1,5 @@
+C:\Users\Home\Source\Repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Data\obj\Debug\net5.0\DLB.CrackingPM.Services.StakeholderData.csprojAssemblyReference.cache
+C:\Users\Home\Source\Repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Data\obj\Debug\net5.0\DLB.CrackingPM.Services.StakeholderData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Source\Repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Data\obj\Debug\net5.0\DLB.CrackingPM.Services.StakeholderData.AssemblyInfoInputs.cache
+C:\Users\Home\Source\Repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Data\obj\Debug\net5.0\DLB.CrackingPM.Services.StakeholderData.AssemblyInfo.cs
+C:\Users\Home\Source\Repos\CrackingPM\DLB.CrackingPM\Services\Stakeholder\DLB.CrackingPM.Services.Stakeholder.Data\obj\Debug\net5.0\DLB.CrackingPM.Services.StakeholderData.csproj.CoreCompileInputs.cache
