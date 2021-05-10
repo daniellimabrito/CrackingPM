@@ -7584,11 +7584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj",
+      "projectUniqueName": "C:\\Users\\Home\\Source\\Repos\\daniellimabrito\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj",
       "projectName": "DLB.CrackingPM.Services.Stakeholder.API",
-      "projectPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj",
+      "projectPath": "C:\\Users\\Home\\Source\\Repos\\daniellimabrito\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\DLB.CrackingPM.Services.Stakeholder.API.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\obj\\",
+      "outputPath": "C:\\Users\\Home\\Source\\Repos\\daniellimabrito\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7605,8 +7605,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj": {
-              "projectPath": "C:\\Users\\Home\\source\\repos\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj"
+            "C:\\Users\\Home\\Source\\Repos\\daniellimabrito\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj": {
+              "projectPath": "C:\\Users\\Home\\Source\\Repos\\daniellimabrito\\CrackingPM\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.Data\\DLB.CrackingPM.Services.Stakeholder.Data.csproj"
             }
           }
         }
