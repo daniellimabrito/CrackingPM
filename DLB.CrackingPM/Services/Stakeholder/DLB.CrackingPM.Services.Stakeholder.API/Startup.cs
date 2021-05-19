@@ -33,7 +33,11 @@ namespace DLB.CrackingPM.Services.Stakeholder.API
             services.AddControllers();
             services.AddDbContext<CrackingPMDataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));         
             services.AddScoped<IStakeholderRepository, StakeholderRepository>();
-        
+
+            services.AddCors(o => o.AddPolicy("CorePolicy", builer => {
+                builer.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+            }));
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DLB.CrackingPM.Services.Stakeholder.API", Version = "v1" });
@@ -51,6 +55,8 @@ namespace DLB.CrackingPM.Services.Stakeholder.API
             }
 
             app.UseRouting();
+
+            app.UseCors("CorePolicy");
 
             app.UseAuthorization();
 

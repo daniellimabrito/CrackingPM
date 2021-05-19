@@ -18,6 +18,8 @@ namespace DLB.CrackingPM.Services.Stakeholder.Domain.Models
         public int PowerInProduct { get; set; }
         public int Knowledge { get; set; }
         public int Accessibility { get; set; }
+     //   public float PowerInProject { get; set; }
+     //   public float InterestInProject { get; set; }
 
     }
 }

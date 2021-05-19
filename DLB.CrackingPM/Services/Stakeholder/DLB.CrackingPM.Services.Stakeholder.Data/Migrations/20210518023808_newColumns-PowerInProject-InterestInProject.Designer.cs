@@ -4,14 +4,16 @@ using DLB.CrackingPM.Services.Stakeholder.Data.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace DLB.CrackingPM.Services.Stakeholder.Data.Migrations
 {
     [DbContext(typeof(CrackingPMDataContext))]
-    partial class CrackingPMDataContextModelSnapshot : ModelSnapshot
+    [Migration("20210518023808_newColumns-PowerInProject-InterestInProject")]
+    partial class newColumnsPowerInProjectInterestInProject
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -38,6 +40,9 @@ namespace DLB.CrackingPM.Services.Stakeholder.Data.Migrations
                     b.Property<int>("InfluenceOther")
                         .HasColumnType("int");
 
+                    b.Property<float>("InterestInProject")
+                        .HasColumnType("real");
+
                     b.Property<int>("InterestLevelNonTechnical")
                         .HasColumnType("int");
 
@@ -53,6 +58,9 @@ namespace DLB.CrackingPM.Services.Stakeholder.Data.Migrations
 
                     b.Property<int>("PowerInProduct")
                         .HasColumnType("int");
+
+                    b.Property<float>("PowerInProject")
+                        .HasColumnType("real");
 
                     b.HasKey("Id");
 
