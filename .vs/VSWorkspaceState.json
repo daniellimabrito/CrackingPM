@@ -5,7 +5,11 @@
     "\\DLB.CrackingPM\\Services",
     "\\DLB.CrackingPM\\Services\\Stakeholder",
     "\\DLB.CrackingPM\\Services\\Stakeholder\\DLB.CrackingPM.Services.Stakeholder.API"
+    "",
+    "\\DLB.CrackingPM",
+    "\\DLB.CrackingPM\\Services",
+    "\\DLB.CrackingPM\\Services\\Stakeholder"
   ],
   "SelectedNode": "\\DLB.CrackingPM\\DLB.CrackingPM.sln",
-  "PreviewInSolutionExplorer": true
+  "PreviewInSolutionExplorer": false
 }
